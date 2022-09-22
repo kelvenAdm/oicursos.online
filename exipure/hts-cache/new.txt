@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-15:04:57	52200/52200	---MC-	200	added ('OK')	text/html	date:Thu,%2022%20Sep%202022%2013:00:16%20GMT	https://getexipure.com/	/Users/kelven/websites/get%20exipure/getexipure.com/index.html	(from )
-15:04:57	0/0	---M--	302	error ('Moved%20Temporarily')	text/html	date:Thu,%2022%20Sep%202022%2018:04:56%20GMT	https://getexipure.com/robots.txt		(from )
