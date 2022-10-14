@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-getexipure.com	TRUE	/	FALSE	1999999999	AWSALB	p92831Lw075VcVW/xXdW78jBRGTI/ewImYS/KoXiBmzIs3y8t7wWfXLOCYy8gNVdVjDd2g+rcpUCcAP6T9nzmuNlG03CgpMWdCHJvEOUpyb5SFLB8LTRwFxLd9CC
-getexipure.com	TRUE	/	FALSE	1999999999	AWSALBCORS	p92831Lw075VcVW/xXdW78jBRGTI/ewImYS/KoXiBmzIs3y8t7wWfXLOCYy8gNVdVjDd2g+rcpUCcAP6T9nzmuNlG03CgpMWdCHJvEOUpyb5SFLB8LTRwFxLd9CC
-getexipure.com	TRUE	/	FALSE	1999999999	SameSite	None
-
